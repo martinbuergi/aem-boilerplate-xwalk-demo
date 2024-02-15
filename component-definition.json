@@ -35,9 +35,7 @@
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/image/v1/image",
-                "template": {
-                  "fileReference": "/content/dam/xwalk-site/hero.png"
-                }
+                "template": {}
               }
             }
           }
