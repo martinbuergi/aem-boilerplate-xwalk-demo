@@ -200,7 +200,7 @@
         "component": "text-input",
         "valueType": "string",
         "name": "author",
-        "label": "Author",
+        "label": "Author2",
         "value": ""
       }
     ]
